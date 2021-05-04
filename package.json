@@ -1,0 +1,22 @@
+{
+  "name": "uitesting",
+  "version": "1.0.0",
+  "description": "Practice UITesting using Cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamiOmran/UITesting.git"
+  },
+  "author": "Sami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamiOmran/UITesting/issues"
+  },
+  "homepage": "https://github.com/SamiOmran/UITesting#readme",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  }
+}
